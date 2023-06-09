@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/novel.iml" filepath="$PROJECT_DIR$/.idea/novel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/novel.novel.main.iml" filepath="$PROJECT_DIR$/.idea/modules/novel.novel.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/novel.novel.test.iml" filepath="$PROJECT_DIR$/.idea/modules/novel.novel.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/start.novel.main.iml" filepath="$PROJECT_DIR$/.idea/modules/start.novel.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/start.novel.test.iml" filepath="$PROJECT_DIR$/.idea/modules/start.novel.test.iml" />
+    </modules>
+  </component>
+</project>
