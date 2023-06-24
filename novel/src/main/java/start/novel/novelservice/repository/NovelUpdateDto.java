@@ -4,6 +4,7 @@ import lombok.Data;
 
 @Data
 public class NovelUpdateDto {
+
     private String novelImage;
 
     private String novelTitle;

@@ -5,9 +5,9 @@ import lombok.Data;
 @Data
 public class LikeData {
 
-    private long novel_id;
+    private int novel_id;
 
-    private Integer author_id;
+    private int likenoveldata_id;
 
     private int LikeCount;
 
