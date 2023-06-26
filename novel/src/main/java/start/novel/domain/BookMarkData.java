@@ -4,7 +4,7 @@ package start.novel.domain;
 import lombok.Data;
 
 @Data
-public class BookMark {
+public class BookMarkData {
 
     private Long novel_id;
 
